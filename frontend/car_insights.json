@@ -1,0 +1,66 @@
+[
+    {
+        "group_name": "Cars with the Same Engine Type and Year Range (+/- 1 year)",
+        "total_cars": 49,
+        "total_percentage_of_total_cars": 66.21621621621621,
+        "cheaper_than_selected": 26.53061224489796,
+        "with_less_distance": 85.71428571428571,
+        "with_better_combination": 22.448979591836736
+    },
+    {
+        "group_name": "Cars in the Same City",
+        "total_cars": 5,
+        "total_percentage_of_total_cars": 6.756756756756757,
+        "cheaper_than_selected": 20.0,
+        "with_less_distance": 80.0,
+        "with_better_combination": 20.0
+    },
+    {
+        "group_name": "Cars with the Same Engine Type and Transmission",
+        "total_cars": 74,
+        "total_percentage_of_total_cars": 100.0,
+        "cheaper_than_selected": 18.91891891891892,
+        "with_less_distance": 87.83783783783784,
+        "with_better_combination": 16.216216216216218
+    },
+    {
+        "group_name": "Cars in the Same Price Range (+/- 20%)",
+        "total_cars": 51,
+        "total_percentage_of_total_cars": 68.91891891891892,
+        "cheaper_than_selected": 21.568627450980394,
+        "with_less_distance": 100.0,
+        "with_better_combination": 100.0
+    },
+    {
+        "group_name": "Cars with the Same Engine Type and Distance Range (+/- 5000 km)",
+        "total_cars": 10,
+        "total_percentage_of_total_cars": 13.513513513513514,
+        "cheaper_than_selected": 0.0,
+        "with_less_distance": 0.0,
+        "with_better_combination": 0.0
+    },
+    {
+        "group_name": "Cars with the Same Transmission and Distance Range (+/- 5000 km)",
+        "total_cars": 10,
+        "total_percentage_of_total_cars": 13.513513513513514,
+        "cheaper_than_selected": 0.0,
+        "with_less_distance": 0.0,
+        "with_better_combination": 0.0
+    },
+    {
+        "group_name": "Cars with Higher Price Drop Percentage",
+        "total_cars": 14,
+        "total_percentage_of_total_cars": 18.91891891891892,
+        "cheaper_than_selected": 85.71428571428571,
+        "with_less_distance": 85.71428571428571,
+        "with_better_combination": 85.71428571428571
+    },
+    {
+        "group_name": "Cars with the Same City and Year Range (+/- 1 year)",
+        "total_cars": 4,
+        "total_percentage_of_total_cars": 5.405405405405405,
+        "cheaper_than_selected": 25.0,
+        "with_less_distance": 25.0,
+        "with_better_combination": 25.0
+    }
+]
