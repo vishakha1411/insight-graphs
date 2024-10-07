@@ -1,0 +1,37 @@
+{
+    "Price_numeric": {
+        "value": 1651000.0,
+        "percent_better_than": 85.48387096774194,
+        "city_specific": false,
+        "same_year": false,
+        "distance_range": null
+    },
+    "Year": {
+        "value": 2021.0,
+        "percent_better_than": 85.48387096774194,
+        "city_specific": false,
+        "same_year": false,
+        "distance_range": null
+    },
+    "Price_numeric_city": {
+        "value": 1651000.0,
+        "percent_better_than": 80.0,
+        "city_specific": true,
+        "same_year": false,
+        "distance_range": null
+    },
+    "Same Year Price": {
+        "value": 1651000.0,
+        "percent_better_than": 66.66666666666666,
+        "city_specific": false,
+        "same_year": true,
+        "distance_range": null
+    },
+    "Same Distance Range Price": {
+        "value": 1651000.0,
+        "percent_better_than": 81.25,
+        "city_specific": false,
+        "same_year": false,
+        "distance_range": "25353-45353"
+    }
+}
