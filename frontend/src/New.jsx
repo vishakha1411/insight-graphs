@@ -11,7 +11,7 @@ const PriceYearScatterPlot = ({ data, chosenCar }) => {
     const calculateJitter = (year, distance, minDistance, maxDistance) => {
         if (isNaN(distance) || minDistance === maxDistance) return year;
         const scaleFactor = 0.55;
-        const normalizedDistance = (distance - minDistance) / (maxDistance - minDistance);
+        const normalizedDistance = (distance - 0) / (100000-0);
         const jitteredYear = year + ((normalizedDistance - 0.5) * scaleFactor);
         return jitteredYear;
     };
